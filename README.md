@@ -38,7 +38,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [github.com/glennx1](github.com/glennx1)
+- 👨‍💻 All of my projects are available at [github.com/glennx1](https://github.com/Glennx1?tab=repositories)
 
 - 💬 Ask me about **Full stack dev , Data structures and algorithms**
 
