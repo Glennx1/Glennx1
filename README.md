@@ -11,33 +11,6 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at (https://github.com/Glennx1?tab=repositories)
-
-- 💬 Ask me about **Full stack dev , Data structures and algorithms**
-
-- 📫 How to reach me **findglenn.work@gmail.com**
-
-- ⚡ Fun fact **bibliophile , musician**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/glennbraggs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/glennbraggs/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/braggsglenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="braggsglenn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/glennx1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="glennx1" height="30" width="40" /></a>
-</p>
-<h1 align="center">Hi 👋, I'm Glenn Braggs</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glennx1" alt="glennx1" /></a> </p>
-
-- 🔭 I’m currently working on **Vector : a chat app**
-
-- 🌱 I’m currently learning **Full stack development , Kubernetes**
-
-- 👯 I’m looking to collaborate on **Front end projects**
-
-- 🤝 I’m looking for help with **React**
-
 - 👨‍💻 All of my projects are available at [github.com/glennx1](https://github.com/Glennx1?tab=repositories)
 
 - 💬 Ask me about **Full stack dev , Data structures and algorithms**
