@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glennx1" alt="glennx1" /></a> </p>
 
-- 🔭 I’m currently working on **Vector : a chat app**
+- 🔭 I’m currently working on **Live Stock Price Ticker using MQTT**
 
-- 🌱 I’m currently learning **Full stack development , Kubernetes**
+- 🌱 I’m currently learning **Networks , Algorithms , Quant Finance**
 
-- 👯 I’m looking to collaborate on **Front end projects**
-
-- 🤝 I’m looking for help with **React**
+- 👯 I’m looking to collaborate on **Any projects**
 
 - 👨‍💻 All of my projects are available at [github.com/glennx1](https://github.com/Glennx1?tab=repositories)
 
-- 💬 Ask me about **Full stack dev , Data structures and algorithms**
+- 💬 Ask me about **Full stack dev ,  Algorithms , Networks and Rock music :)**
 
-- 📫 How to reach me **findglenn.work@gmail.com**
+- 📫 How to reach me **braggsglenn@gmail.com**
 
 - ⚡ Fun fact **bibliophile , musician**
 
