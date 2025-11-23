@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Full stack dev ,  Algorithms , Networks and Rock music :)**
 
-- 📫 How to reach me **braggsglenn@gmail.com**
+- 📫 How to reach me **glennbraggs.work@gmail.com**
 
 - ⚡ Fun fact **bibliophile , musician**
 
