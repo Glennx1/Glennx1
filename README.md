@@ -1,17 +1,13 @@
-<h1 align="center">Hi 👋, I'm Glenn Braggs</h1>
+<h1 align="center">Hi, I'm Glenn Braggs</h1>
 <h3 align="center">A passionate software developer </h3>
 
-- 🔭 I’m currently working on **Live Stock Price Ticker using MQTT**
-
-- 🌱 I’m currently learning **Networks , Algorithms , Quant Finance**
-
-- 👯 I’m looking to collaborate on **Any projects**
+- 👯 I’m looking to collaborate on **Any and all projects**
 
 - 👨‍💻 All of my projects are available at [github.com/glennx1](https://github.com/Glennx1?tab=repositories)
 
 - 💬 Ask me about **Full stack dev ,  Algorithms , Networks and Rock music :)**
 
-- 📫 How to reach me **glennbraggs.work@gmail.com**
+- 📫reach me @ **glennbraggs.work@gmail.com** or **https://glennbraggs.vercel.app**
 
 - ⚡ Fun fact **bibliophile , musician**
 
