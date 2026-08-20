@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Glenn Braggs</h1>
 <h3 align="center">A passionate software developer </h3>
 
-- 👯 I’m looking to collaborate on **Any and all projects**
+- 👯 I’m looking to collaborate on **any project!**
 
 - 👨‍💻 All of my projects are available at [github.com/glennx1](https://github.com/Glennx1?tab=repositories)
 
-- 💬 Ask me about **Full stack dev ,  Algorithms , Networks and Rock music :)**
+- 💬 Ask me about **Software dev ,  ML, Startups and Rock music :)**
 
-- 📫reach me @ **glennbraggs.work@gmail.com** or **https://glennbraggs.vercel.app**
+- 📫reach me @ **glennbraggs.work@gmail.com** or **https://glennbraggs.vercel.app** or **https://www.linkedin.com/in/glennbraggs/**
 
 - ⚡ Fun fact **bibliophile , musician**
 
